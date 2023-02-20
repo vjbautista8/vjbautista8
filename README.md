@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-4Q8cuX8et0w/XlPs59l0LrI/AAAAAAAAU-Q/A2NioJfXQY0pavFPS9INBPPv70xxU5zPACLcBGAsYHQ/s1600/api-c99e353f761d318322c853c03ebcf21b.gif" width=100% height=500px>
+<img src="https://1.bp.blogspot.com/-4Q8cuX8et0w/XlPs59l0LrI/AAAAAAAAU-Q/A2NioJfXQY0pavFPS9INBPPv70xxU5zPACLcBGAsYHQ/s1600/api-c99e353f761d318322c853c03ebcf21b.gif" width=100%>
 
 <h1 align="center">
   <a href="#">
@@ -33,7 +33,7 @@
 
 <h3 align="left">🔥 Github Stats : </h3>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjbautista8&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjbautista8&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff3068">
   <a href="https://github.com/vjbautista8"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vjbautista8&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/vjbautista8"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=vjbautista8&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"  alt="vjbautista8"></a>
 
