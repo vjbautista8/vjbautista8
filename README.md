@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/melodias_von" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melodias_von" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/von-tastic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="von-tastic" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13633405/von-tastic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="von-tastic" height="30" width="40" /></a>
 <a href="https://fb.com/vonjohn.bautista.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vonjohn.bautista.7" height="30" width="40" /></a>
 <a href="https://instagram.com/melodiasbautista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melodiasbautista" height="30" width="40" /></a>
 </p>
