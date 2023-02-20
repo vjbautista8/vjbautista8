@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+World+!&center=true&size=30&color=ff3068&pause=1000&repeat=false">
-  </a>
-</h1>
+
 
 <img src="https://1.bp.blogspot.com/-4Q8cuX8et0w/XlPs59l0LrI/AAAAAAAAU-Q/A2NioJfXQY0pavFPS9INBPPv70xxU5zPACLcBGAsYHQ/s1600/api-c99e353f761d318322c853c03ebcf21b.gif" width=100%>
 
