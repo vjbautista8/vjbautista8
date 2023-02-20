@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Von John Bautista</h1>
-<h3 align="center">A passionate Zoho developer from Philippines</h3>
+<h3 align="center">A passionate Zoho Developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjbautista8&label=Profile%20views&color=0e75b6&style=flat" alt="vjbautista8" /> </p>
 
