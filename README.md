@@ -1,12 +1,18 @@
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+World+!!!!&center=true&size=30&color=ff3068">
+  </a>
+</h1>
+
 <img src="https://1.bp.blogspot.com/-4Q8cuX8et0w/XlPs59l0LrI/AAAAAAAAU-Q/A2NioJfXQY0pavFPS9INBPPv70xxU5zPACLcBGAsYHQ/s1600/api-c99e353f761d318322c853c03ebcf21b.gif" width=100%>
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm,+Von+John+Bautista;&center=true&size=30&color=ff3068">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm,+Von+John+Bautista.;+A+passionate;+Zoho+Developer;+from+Philippines.&center=true&size=30&color=ff3068">
   </a>
 </h1>
 
-<h3 align="center">A passionate Zoho Developer from Philippines</h3>
+<h3 align="center">My Profile</h3>
 <img align="right" alt="Coding" width="400" src="https://devloft.co.uk/images/main.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjbautista8&label=Profile%20views&color=0e75b6&style=flat" alt="vjbautista8" /> </p>
 
